@@ -1,0 +1,20 @@
+#pragma once
+#include <windows.h>
+#include <cstdint>
+#include <thread>
+#include <chrono>
+#include <stdio.h> 
+#include <stdlib.h> 
+#include <algorithm>
+#include <string>
+#include <intrin.h>
+#include <d3d9.h>
+#include <d3dx9.h>
+#include <iostream>
+#include <fstream>
+#include <ShlObj.h>
+#include <filesystem>
+
+#include "SegmentData/segmentData.hpp"
+#include "util/include.hpp"
+#include "weave/weave.hpp"
